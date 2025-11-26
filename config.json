@@ -7,12 +7,6 @@
       "detail": "https://api.1080zyku.com",
       "is_adult": false
     },
-    "155api": {
-      "api": "https://155api.com/api.php/provide/vod",
-      "name": "AV-155资源",
-      "detail": "https://155api.com",
-      "is_adult": true
-    },
     "360zy": {
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "TV-360资源",
@@ -378,4 +372,5 @@
     }
   }
 }
+
 
