@@ -151,7 +151,7 @@
     "www.yyzywcj.com": {
       "name": "优优资源",
       "api": "https://www.yyzywcj.com/api.php/provide/vod",
-      "detail": "https://www.yyzywcj.com
+      "detail": "https://www.yyzywcj.com"
  },
     "lbapi9.com": {
       "name": "乐播资源",
@@ -160,3 +160,4 @@
         }
     }
 }
+
