@@ -10,10 +10,6 @@
             "api": "https://bfzyapi.com/api.php/provide/vod",
             "name": "暴风资源"
         },
-        "tyyszy": {
-            "api": "https://tyyszy.com/api.php/provide/vod",
-            "name": "天涯资源"
-        },
         "ffzy": {
             "api": "https://api.ffzyapi.com/api.php/provide/vod",
             "name": "非凡影视",
@@ -39,11 +35,7 @@
         "dbzy": {
             "api": "https://dbzy.tv/api.php/provide/vod",
             "name": "豆瓣资源"
-        },
-        "mozhua": {
-            "api": "https://mozhuazy.com/api.php/provide/vod",
-            "name": "魔爪资源"
-        },
+        },     
         "mdzy": {
             "api": "https://www.mdzyapi.com/api.php/provide/vod",
             "name": "魔都资源"
@@ -89,16 +81,6 @@
             "name": "CK资源",
             "detail": "https://ckzy.me"
         },
-        "ukuapi": {
-            "api": "https://api.ukuapi.com/api.php/provide/vod",
-            "name": "U酷资源",
-            "detail": "https://api.ukuapi.com"
-        },
-        "1080zyk": {
-            "api": "https://api.1080zyku.com/inc/apijson.php/",
-            "name": "1080资源",
-            "detail": "https://api.1080zyku.com"
-        },
         "hhzyapi": {
             "api": "https://hhzyapi.com/api.php/provide/vod",
             "name": "豪华资源",
@@ -140,7 +122,41 @@
             "api": "https://api.guangsuapi.com/api.php/provide/vod",
             "name": "光速资源",
             "detail": "https://api.guangsuapi.com"
+        },
+      "jinchancaiji": {
+      "api": "https://zy.jinchancaiji.com/api.php/provide/vod",
+      "name": "金蝉影视",  
+      "detail": "https://zy.jinchancaiji.com"
+     },
+     "91md.me": {
+      "name": "麻豆视频",
+      "api": "https://91md.me/api.php/provide/vod",
+      "detail": "https://91md.me"
+ },
+    "91jpzyw.com": {
+      "name": "91-精品",
+      "api": "https://91jpzyw.com/api.php/provide/vod",
+      "detail": "https://91jpzyw.com"
+ },
+    "155zy2.com": {
+      "name": "155-资源",
+      "api": "https://155api.com/api.php/provide/vod",
+      "detail": "https://155zy2.com"
+    },
+    "apiyutu.com": {
+      "name": "玉兔资源",
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "detail": "https://apiyutu.com"
+},
+    "www.yyzywcj.com": {
+      "name": "优优资源",
+      "api": "https://www.yyzywcj.com/api.php/provide/vod",
+      "detail": "https://www.yyzywcj.com
+ },
+    "lbapi9.com": {
+      "name": "乐播资源",
+      "api": "https://lbapi9.com/api.php/provide/vod",
+      "detail": "https://lbapi9.com"
+        }
     }
-  }
 }
-
