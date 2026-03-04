@@ -132,31 +132,12 @@
       "name": "麻豆视频",
       "api": "https://91md.me/api.php/provide/vod",
       "detail": "https://91md.me"
- },
-    "91jpzyw.com": {
-      "name": "91-精品",
-      "api": "https://91jpzyw.com/api.php/provide/vod",
-      "detail": "https://91jpzyw.com"
- },
-    "155zy2.com": {
-      "name": "155-资源",
-      "api": "https://155api.com/api.php/provide/vod",
-      "detail": "https://155zy2.com"
     },
     "apiyutu.com": {
       "name": "玉兔资源",
       "api": "https://apiyutu.com/api.php/provide/vod",
       "detail": "https://apiyutu.com"
-},
-    "www.yyzywcj.com": {
-      "name": "优优资源",
-      "api": "https://www.yyzywcj.com/api.php/provide/vod",
-      "detail": "https://www.yyzywcj.com"
- },
-    "lbapi9.com": {
-      "name": "乐播资源",
-      "api": "https://lbapi9.com/api.php/provide/vod",
-      "detail": "https://lbapi9.com"
         }
     }
 }
+
